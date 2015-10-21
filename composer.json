@@ -1,0 +1,12 @@
+{
+    "name": "takacsmark/fatfreetutorial1",
+    "authors": [
+        {
+            "name": "Mark Takacs",
+            "email": "takacs.mark@gmail.com"
+        }
+    ],
+    "require": {
+    	"bcosca/fatfree": "3.5.0"
+    }
+}
