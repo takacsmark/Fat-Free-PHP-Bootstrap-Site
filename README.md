@@ -1,4 +1,4 @@
-# Fat-Free-PHP-MVC-Sample-Project
+# Fat-Free-PHP-Bootstrap-Site
 
 This a sample project to kick-start an MVC web application based on the Fat-Free PHP Framework. 
 
