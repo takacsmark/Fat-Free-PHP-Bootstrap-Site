@@ -8,5 +8,8 @@
     ],
     "require": {
     	"bcosca/fatfree": "3.5.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.5"
     }
 }
