@@ -1,6 +1,6 @@
 <?php
 /**
- * Main controller of the sample applicaiton
+ * Controller of the main dashboard view sample applicaiton (dashboard.htm)
  *
  * PHP version 5
  * 
@@ -12,7 +12,7 @@
  */
  
  /**
- * Main controller of the sample applicaiton
+ * Controller class
  * 
  * @category PHP
  * @package  Fat-Free-PHP-Bootstrap-Site
@@ -25,7 +25,7 @@ class MainController extends Controller
     /**
      * Renders the dashboard view template
      *
-     * @return echos the renderet template
+     * @return void
      */
     function render() 
     {
@@ -46,7 +46,7 @@ class MainController extends Controller
     //     $msg = $messages->all()[0];
 
     //     $this->f3->set('msg',$msg);
- //        $template=new Template;
- //        echo $template->render('template.htm');
+    //        $template=new Template;
+    //        echo $template->render('template.htm');
     // }
 }
