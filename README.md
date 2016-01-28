@@ -9,3 +9,12 @@ The sample project works with a MySQL database. After cloning the repository upd
 You can run the project from the project directory by issuing the command "php -S localhost:8088 -t .".
 
 If you prefer to use your own web server, please make sure that it is configured to support f3 routing as described on http://fatfreeframework.com/routing-engine.
+
+
+## Installation
+
+After cloning the repo please run
+
+`composer install`
+
+in terminal in the project folder.
